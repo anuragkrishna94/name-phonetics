@@ -1,6 +1,6 @@
 const NpNavLink = () => {
     return (
-        <div className="flex gap-2">
+        <div className="flex md:gap-2 gap-10">
             <div className="flex flex-col">
                 <div className="flex justify-center">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
